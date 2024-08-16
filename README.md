@@ -1,3 +1,1 @@
 # descomplicandokubernetes
-# descomplicandokubernetes
-# descomplicandokubernetes
